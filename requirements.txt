@@ -1,4 +1,5 @@
 streamlit>=1.28.0
+psycopg[binary]>=3.1.0
 sqlalchemy>=2.0.23
 pg8000>=1.30.4
 pandas>=2.1.0
