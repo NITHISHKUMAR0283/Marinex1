@@ -1,6 +1,6 @@
 
 import streamlit as st
-import psycopg2
+import psycogp as psycopg2
 import pandas as pd
 import matplotlib.pyplot as plt
 import folium
@@ -2206,4 +2206,5 @@ def main():
             """)
 
 if __name__ == "__main__":
+
     main()
