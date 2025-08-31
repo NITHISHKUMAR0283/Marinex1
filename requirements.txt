@@ -3,7 +3,7 @@ sqlalchemy==2.0.23
 pg8000==1.30.4
 pandas==2.0.3
 matplotlib==3.7.2
-folium==0.14.0
+folium==0.11.0
 streamlit-folium==0.1.1
 plotly==5.16.1
 requests==2.31.0
